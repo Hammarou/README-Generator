@@ -42,23 +42,21 @@ Greetings!
 
 ## GitHub Deployment Location (HTTPS)
 
-The deployed webpage can be viewed at following URL:
+N/A
 
-
+* Note: The README generator is a node.js command line interface (CLI) application. Therefore, it cannot be hosted through an internet browser. 
 
 ## GitHub Repository Location
 
+https://github.com/Hammarou/README-Generator
+
 ## Contribution
-
-
 
 N/A
 
 ## Credit
 
--Starter code: 
-
-https://github.com/coding-boot-camp/potential-enigma.git
+N/A
 
 ## Application Screenshots
 

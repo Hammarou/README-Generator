@@ -9,7 +9,7 @@ const questions = [
   {
     type: 'input',
     name: 'title',
-    message: 'Please enter project title'
+    message: 'Enter project title'
   },
 
   {
@@ -27,24 +27,24 @@ const questions = [
   {
     type: 'input',
     name: 'usage',
-    message: 'Please enter text for usage section'
+    message: 'Enter text for usage section'
   },
   {
     type: 'input',
     name: 'contribution',
-    message: 'Please enter contribution guidelines'
+    message: 'Enter contribution guidelines'
   },
 
   {
     type: 'input',
     name: 'test',
-    message: 'Please enter test guidelines'
+    message: 'Enter test guidelines'
   },
 
   {
     type: 'list',
     name: 'license',
-    message: 'Please choose license (leave blank if no license)',
+    message: 'Select a license (leave blank if no license)',
     choices: [
       '',
       'Academic Free License v3.0',
@@ -69,13 +69,13 @@ const questions = [
   {
     type: 'input',
     name: 'username',
-    message: 'Please enter Github username'
+    message: 'Enter Github username'
   },
 
   {
     type: 'input',
     name: 'email',
-    message: 'Please enter email address'
+    message: 'Enter email address'
   },
 
 ];

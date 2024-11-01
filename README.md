@@ -15,7 +15,11 @@
 
 Greetings!
 
-- Having a README file is an essential part of any open-sourced application on GitHub. The purpose of the README file is to explain to any prospective user the intention of an application; it's uses; provide installation instructions; and ways future users developers may report any issues/problems with application or make contributions to further improve its functioning.
+Having a README file is an essential aspect of any open-sourced application on GitHub. The purpose of the README file is to explain to any prospective user the intention of an application; it's uses; provide installation instructions; and ways future users developers may report any issues/problems with application or make contributions to further improve its functioning.
+
+- The **README Generator** is intended for use by potential users seeking to quickly create README files for their open sourced project applications posted on GitHub. 
+
+- The README is formatted in markdown language and is specified to render user generated responses to prompted questions.
 
 ## Installation
 
@@ -23,11 +27,8 @@ Greetings!
 * Using terminal, navigate into desired local directory using `cd` command: `cd path/to/desired/folder `
 * Install dependencies: `npm install` 
 
+
 ## Usage
-
-- The README Generator is intended for use by potential users seeking to quickly create README files for their open sourced project applications posted on GitHub. 
-
-- The README is formatted in markdown language and is specified to user generated responses to prompt questions.
 
 ### Generate README file
 
@@ -40,6 +41,17 @@ Greetings!
  - Successfully complete the question prompts provided by the generator.
 
 
+## Application Screenshots
+
+![](/images/screenshot1.png "First screenshot")
+![](/images/screenshot2.png "Second screenshot")
+![](/images/screenshot3.png "Third screenshot")
+![](/images/screenshot4.png "Fourth screenshot")
+![](/images/screenshot5.png "Fifth screenshot")
+![](/images/screenshot6.png "Sixth screenshot")
+![](/images/screenshot7.png "Seventh screenshot")
+
+
 ## GitHub Deployment Location (HTTPS)
 
 N/A
@@ -50,20 +62,18 @@ N/A
 
 https://github.com/Hammarou/README-Generator
 
-## Contribution
-
-N/A
 
 ## Credit
 
 N/A
 
-## Application Screenshots
 
-![](/Assets/screenshots/screenshot1.png.png)
-![](/Assets/screenshots/screenshot2.png.png)
-![](/Assets/screenshots/screenshot3.png.png)
-![](/Assets/screenshots/screenshot4.png.png)
+## Contribution
+
+Feel free to fork this project, submit issues, or make pull requests if you have suggestions or improvements. Contributions are welcome!
+
+
+
 
 ## License
 

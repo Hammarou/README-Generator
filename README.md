@@ -56,7 +56,7 @@ Having a README file is an essential aspect of any open-sourced application on G
 
 N/A
 
-* Note: The README generator is a node.js command line interface (CLI) application. Therefore, it cannot be hosted through an internet browser. 
+* Note: The **README generator** is a node.js command line interface (CLI) application. Therefore, it cannot be hosted through an internet browser. 
 
 ## GitHub Repository Location
 

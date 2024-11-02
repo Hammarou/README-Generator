@@ -8,7 +8,7 @@
 - [GitHub Repository Location](#github-repository-location)  
 - [Contribution](#contribution)  
 - [Credit](#credit)
-- [Application Screenshots](#webpage-screenshots)  
+- [Application Screenshots](#application-screenshots)  
 - [License](#license)
 
 ## Description
@@ -17,7 +17,7 @@ Greetings!
 
 Having a README file is an essential aspect of any open-sourced application on GitHub. The purpose of the README file is to explain to any prospective user the intention of an application; it's uses; provide installation instructions; and ways future users developers may report any issues/problems with application or make contributions to further improve its functioning.
 
-- The **README Generator** is intended for use by potential users seeking to quickly create README files for their open sourced project applications posted on GitHub. 
+- The **README Generator** is intended for use by potential users seeking to quickly create README files for their open sourced projects posted on GitHub. 
 
 - The README is formatted in markdown language and is specified to render user generated responses to prompted questions.
 
@@ -70,11 +70,11 @@ N/A
 
 ## Contribution
 
-Feel free to fork this project, submit issues, or make pull requests if you have suggestions or improvements. Contributions are welcome!
+Feel free to fork this application, submit issues, or make pull requests if you have suggestions or improvements. Contributions are welcome!
 
 
 
 
 ## License
 
-This project is licensed under the [MIT](LICENSE) license.
+This application is licensed under the [MIT](LICENSE) license.

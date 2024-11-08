@@ -5,7 +5,8 @@
 - [Installation](#installation)  
 - [Usage](#usage)
 - [GitHub Deployment Location (HTTPS)](#github-deployment-location-https)
-- [GitHub Repository Location](#github-repository-location)  
+- [GitHub Repository Location](#github-repository-location)
+- [Video Demonstration](#video-demonstration)   
 - [Contribution](#contribution)  
 - [Credit](#credit)
 - [Application Screenshots](#application-screenshots)  
@@ -51,6 +52,10 @@ Having a README file is an essential aspect of any open-sourced application on G
 ![](/images/screenshot6.png "Sixth screenshot")
 ![](/images/screenshot7.png "Seventh screenshot")
 
+### Sample README
+
+
+
 
 ## GitHub Deployment Location (HTTPS)
 
@@ -63,6 +68,13 @@ N/A
 https://github.com/Hammarou/README-Generator
 
 
+## Video Demonstration
+
+To view a video demonstration of the application, please click the following link:
+
+https://drive.google.com/file/d/1BCA8oEaY9tipEnVhgAK8Wn5Vhq58zqQI/view 
+
+
 ## Credit
 
 N/A
@@ -71,8 +83,6 @@ N/A
 ## Contribution
 
 Feel free to fork this application, submit issues, or make pull requests if you have suggestions or improvements. Contributions are welcome!
-
-
 
 
 ## License

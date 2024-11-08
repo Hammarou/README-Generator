@@ -1,7 +1,8 @@
 # Readme Generator
 
 ## Table of Contents
-- [Description](#description)  
+- [Description](#description)
+- [Technologies Used](#technologies-used)   
 - [Installation](#installation)  
 - [Usage](#usage)
 - [GitHub Deployment Location (HTTPS)](#github-deployment-location-https)
@@ -22,12 +23,31 @@ Having a README file is an essential aspect of any open-sourced application on G
 
 - The README is formatted in markdown language and is specified to render user generated responses to prompted questions.
 
+
+## Technologies Used
+
+- **Node.js**: Runtime environment for executing JavaScript server-side.
+- **Inquirer.js**: A popular npm package for handling user input via the command line.
+
+
 ## Installation
 
-* Clone repository in GitHub: `git clone git@github.com:Hammarou/README-Generator.git`
-* Using terminal, navigate into desired local directory using `cd` command: `cd path/to/desired/folder `
-* Install dependencies: `npm install` 
+To run this application locally, follow these steps:
 
+1. Clone repository in GitHub: 
+    ```sh
+    git clone git@github.com:Hammarou/README-Generator.git
+    ```
+
+2. Using terminal, navigate into desired local directory using `cd` command: 
+    ```sh
+    cd path/to/desired/folder 
+    ```
+
+3. Install dependencies: 
+    ```sh
+    npm install 
+    ```
 
 ## Usage
 
@@ -54,7 +74,7 @@ Having a README file is an essential aspect of any open-sourced application on G
 
 ### Sample README
 
-
+![](/images/Sample_README.png "Sample README")
 
 
 ## GitHub Deployment Location (HTTPS)

@@ -7,9 +7,9 @@
 - [Usage](#usage)
 - [GitHub Deployment Location (HTTPS)](#github-deployment-location-https)
 - [GitHub Repository Location](#github-repository-location)
-- [Video Demonstration](#video-demonstration)   
+- [Video Demonstration](#video-demonstration)
+- [Credit](#credit)   
 - [Contribution](#contribution)  
-- [Credit](#credit)
 - [Application Screenshots](#application-screenshots)  
 - [License](#license)
 
